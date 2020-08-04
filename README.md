@@ -3,9 +3,10 @@
 ## Olá pessoal 👋
 
 Sou um FullStack Developer :computer:
+<br />
 Apaixonado em resolver problemas utilizando a programação!
 
-:rocket: &nbsp; Procurando novos desafios
+:rocket: &nbsp; Buscando novos desafios
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos desafiadores
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, jogar LoL com amigos e assistir seriados.
