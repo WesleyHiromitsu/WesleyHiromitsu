@@ -1,6 +1,6 @@
 # Wesley Hiromitsu
 
-## Olá pessoal 👋
+### Olá pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Sou um FullStack Developer :computer:
 <br />
